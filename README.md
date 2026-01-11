@@ -1,6 +1,8 @@
 A Python script that reminds me what bin collection week it is, using a Discord webhook.
 Designed to run on my Raspberry Pi
 
+<img width="501" height="230" alt="image" src="https://github.com/user-attachments/assets/ccd31543-dc8d-44e6-af06-14e91ee7e9a2" />
+
 # Usage
 * Install the python dependencies
 * Copy .env.example and rename it .env
